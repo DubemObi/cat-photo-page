@@ -1,0 +1,123 @@
+.page {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  /* max-width: 500px; */
+  background-color: antiquewhite;
+}
+h1,
+h2,
+h3,
+p {
+  text-align: center;
+}
+h1 {
+  margin-top: 0;
+  padding-top: 20px;
+}
+
+.cat-image {
+  background-color: white;
+  border-radius: 15px;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  /* margin-top: -5px; */
+  padding: 20px;
+  padding-top: 5px;
+  margin-bottom: 30px;
+}
+
+a > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  padding-bottom: 5px;
+  margin-top: -5px;
+}
+
+.cat-lists {
+  background-color: whitesmoke;
+  padding-bottom: 30px;
+}
+.cat-lists h2 {
+  padding-top: 30px;
+  margin-bottom: 20px;
+}
+
+.cat-lists h3 {
+  margin-top: 0;
+}
+
+.unordered {
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+}
+
+ul {
+  margin-top: 0;
+}
+ol {
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+}
+
+.cat-lists img {
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cat-lists-content {
+  width: 70%;
+  background-color: rgba(100, 100, 100, 0.1);
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 15px;
+  padding: 20px 0;
+  /* margin-bottom: 40px; */
+}
+.cat-lists-content h3 {
+  padding-top: 10px;
+  margin-bottom: 5px;
+}
+
+figure {
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+}
+
+figcaption {
+  text-align: center;
+  background-color: darkgrey;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.cat-form {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 40px;
+}
+
+.form {
+  background-color: white;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+button {
+  background-color: steelblue;
+  color: aliceblue;
+  border-color: steelblue;
+}
+
+footer {
+  padding: 10px;
+}
